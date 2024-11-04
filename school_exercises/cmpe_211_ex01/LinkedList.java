@@ -1,3 +1,5 @@
+package cmpe_211_ex01;
+
 public class LinkedList<T> {
     private Node<T> head;
 
