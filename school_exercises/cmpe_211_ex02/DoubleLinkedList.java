@@ -16,8 +16,8 @@ class DoubleNode<T>
 
 public class DoubleLinkedList<T>
 {
-    DoubleNode<T> head;
-    DoubleNode<T> tail;
+    private DoubleNode<T> head;
+    private DoubleNode<T> tail;
     int size;
 
     public DoubleLinkedList()
@@ -25,6 +25,10 @@ public class DoubleLinkedList<T>
         head = null;
         tail = null;
         size = 0;
+    }
+
+    public DoubleNode<T> getHead() {
+        return head;
     }
 
     public static <T> void insertAtStart(DoubleLinkedList<T> list, T data)
@@ -176,7 +180,6 @@ public class DoubleLinkedList<T>
             throw new IllegalArgumentException("The provided node cannot be null.");
 
         DoubleNode<T> current_node = list.head;
-        DoubleNode<T> temp;
 
         while (current_node != null) {
             if (current_node.equals(node))
@@ -209,4 +212,60 @@ public class DoubleLinkedList<T>
         throw new IllegalArgumentException("Node not found in the list.");
     }
 
+}
+
+class Main2 {
+    public static void main(String[] args)
+    {
+        DoubleLinkedList<Integer> list = new DoubleLinkedList<>();
+
+        System.out.println("Inserting 10, 20 at the start:");
+        DoubleLinkedList.insertAtStart(list, 10);
+        DoubleLinkedList.insertAtStart(list, 20);
+        printList(list);
+
+        System.out.println("\nInserting 30, 40 at the end:");
+        DoubleLinkedList.insertAtEnd(list, 30);
+        DoubleLinkedList.insertAtEnd(list, 40);
+        printList(list);
+
+        System.out.println("\nInserting 35 before 30:");
+        DoubleNode<Integer> nodeToInsertBefore = list.getHead().next.next; // Node with data 30
+        DoubleLinkedList.insertBefore(list, nodeToInsertBefore, 35);
+        printList(list);
+
+        System.out.println("\nRemoving element from the start:");
+        DoubleLinkedList.removeFromStart(list);
+        printList(list);
+
+        System.out.println("\nRemoving element from the end:");
+        DoubleLinkedList.removeFromEnd(list);
+        printList(list);
+
+        System.out.println("\nInserting 25 before 10:");
+        DoubleNode<Integer> nodeToInsertBefore2 = list.getHead();
+        DoubleLinkedList.insertBefore(list, nodeToInsertBefore2, 25);
+        printList(list);
+
+        System.out.println("\nInserting 15 after 25:");
+        DoubleNode<Integer> nodeToInsertAfter = list.getHead();
+        DoubleLinkedList.insertAfter(list, nodeToInsertAfter, 15);
+        printList(list);
+
+        System.out.println("\nRemoving the node with data 10:");
+        DoubleNode<Integer> nodeToRemove = list.getHead().next.next;
+        DoubleLinkedList.removeTheNode(list, nodeToRemove);
+        printList(list);
+    }
+
+    public static void printList(DoubleLinkedList<Integer> list)
+    {
+        DoubleNode<Integer> current = list.getHead();
+        System.out.print("List: ");
+        while (current != null) {
+            System.out.print(current.data + " ");
+            current = current.next;
+        }
+        System.out.println();
+    }
 }
