@@ -46,8 +46,7 @@ public class Steque<T>
 
     public T pop()
     {
-        T deletedData = head.data;
-        if (size <= 0)
+        if (head == null || head.data == null)
             throw new IllegalStateException("Stack is empty");
         else if (size == 1)
         {
@@ -57,7 +56,7 @@ public class Steque<T>
         else
             head = head.next;
         size--;
-        return (deletedData);
+        return (head.data);
     }
 
     public void enqueue(T data)

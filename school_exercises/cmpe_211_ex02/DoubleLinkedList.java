@@ -27,8 +27,14 @@ public class DoubleLinkedList<T>
         size = 0;
     }
 
-    public DoubleNode<T> getHead() {
+    public DoubleNode<T> getHead()
+    {
         return head;
+    }
+
+    public DoubleNode<T> getTail()
+    {
+        return tail;
     }
 
     public static <T> void insertAtStart(DoubleLinkedList<T> list, T data)
@@ -107,9 +113,7 @@ public class DoubleLinkedList<T>
     public static <T> void insertBefore(DoubleLinkedList<T> list, DoubleNode<T> node, T data)
     {
         if (node == null)
-        {
             throw new IllegalArgumentException("The provided node cannot be null.");
-        }
 
         DoubleNode<T> temp = list.head;
         DoubleNode<T> newNode = new DoubleNode<>(data);
