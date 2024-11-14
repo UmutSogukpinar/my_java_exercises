@@ -1,37 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="511ec4f1-2386-4c48-b7ad-b4894d5ca5ea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank_ex01/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_exercises.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/cmpe_211_ex01/LinkedList$LinkedListIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/cmpe_211_ex01/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/cmpe_211_ex01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/cmpe_211_ex01/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/cmpe_211_ex02/Deque$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/cmpe_211_ex02/Deque.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/cmpe_211_ex02/DoubleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/cmpe_211_ex02/DoubleNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/cmpe_211_ex02/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/cmpe_211_ex02/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/cmpe_211_ex02/Main3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/cmpe_211_ex02/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/cmpe_211_ex02/Steque.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/school_exercises/cmpe_211_ex01/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/school_exercises/cmpe_211_ex01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/school_exercises/cmpe_211_ex01/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/school_exercises/cmpe_211_ex02/Deque.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/school_exercises/cmpe_211_ex02/DoubleLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/school_exercises/cmpe_211_ex02/Steque.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/BinarySearch/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jav.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jav.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,15 +27,16 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2oqY4PIX6EhVr8daKoKgN6AtA5F" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BinarySearch.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Solution.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
