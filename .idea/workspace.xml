@@ -5,9 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="511ec4f1-2386-4c48-b7ad-b4894d5ca5ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Projects/BinarySearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex03/ex03_materials/DoublingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex03/ex03_materials/In.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex03/ex03_materials/StdOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex03/ex03_materials/StdRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex03/ex03_materials/Stopwatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex03/ex03_materials/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jav.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jav.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jav.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex01/LinkedList$LinkedListIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex01/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex01/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/Deque$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/Deque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/DoubleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/DoubleNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/Steque.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,26 +46,55 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2oqY4PIX6EhVr8daKoKgN6AtA5F" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.BinarySearch.executor": "Run",
+    "Application.DoublingTest.executor": "Run",
+    "Application.In.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Main3.executor": "Run",
     "Application.Solution.executor": "Run",
+    "Application.ThreeSum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Umut\OneDrive\Masaüstü\my_java_exercises\Projects\school_exercises" />
+      <recent name="C:\Users\Umut\OneDrive\Masaüstü\my_java_exercises\out\production\java_exercises\cmpe_211_ex02" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="java_exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="java_exercises" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,5 +105,8 @@
       <updated>1731598381548</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
