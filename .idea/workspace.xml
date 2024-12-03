@@ -5,30 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="511ec4f1-2386-4c48-b7ad-b4894d5ca5ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex03/ex03_materials/DoublingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex03/ex03_materials/In.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex03/ex03_materials/StdOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex03/ex03_materials/StdRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex03/ex03_materials/Stopwatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex03/ex03_materials/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex04/question_1/InsertionX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex04/question_2/InsertionSortSentinel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex04/question_3/BinaryInsertion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jav.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex01/LinkedList$LinkedListIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex01/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex01/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/Deque$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/Deque.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/DoubleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/DoubleNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/Main3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jav/cmpe_211_ex02/Steque.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "UmutSogukpinar"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/UmutSogukpinar/my_java_exercises.git",
+    "accountId": "1a81a99e-87d7-4f8a-93ab-9af9c83ffcbf"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -61,9 +53,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.BinaryInsertion.executor": "Run",
     "Application.BinarySearch.executor": "Run",
     "Application.DoublingTest.executor": "Run",
     "Application.In.executor": "Run",
+    "Application.InsertionX.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main3.executor": "Run",
     "Application.Solution.executor": "Run",
