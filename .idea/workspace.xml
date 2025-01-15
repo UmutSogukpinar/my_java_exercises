@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="511ec4f1-2386-4c48-b7ad-b4894d5ca5ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex04/question_1/InsertionX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex04/question_2/InsertionSortSentinel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/cmpe_211_ex04/question_3/BinaryInsertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/Sorting/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/Sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/Sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/school_exercises/Sorting/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "UmutSogukpinar"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;UmutSogukpinar&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/UmutSogukpinar/my_java_exercises.git",
-    "accountId": "1a81a99e-87d7-4f8a-93ab-9af9c83ffcbf"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/UmutSogukpinar/my_java_exercises.git&quot;,
+    &quot;accountId&quot;: &quot;1a81a99e-87d7-4f8a-93ab-9af9c83ffcbf&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -57,9 +59,13 @@
     "Application.BinarySearch.executor": "Run",
     "Application.DoublingTest.executor": "Run",
     "Application.In.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
     "Application.InsertionX.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
     "Application.Main3.executor": "Run",
+    "Application.Main4.executor": "Run",
+    "Application.QuickSort.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.ThreeSum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,6 +76,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Umut\OneDrive\Masaüstü\my_java_exercises\Projects\BinarySearch" />
+      <recent name="C:\Users\Umut\OneDrive\Masaüstü\my_java_exercises\Projects\Sorting" />
       <recent name="C:\Users\Umut\OneDrive\Masaüstü\my_java_exercises\Projects\school_exercises" />
       <recent name="C:\Users\Umut\OneDrive\Masaüstü\my_java_exercises\out\production\java_exercises\cmpe_211_ex02" />
     </key>
